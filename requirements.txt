@@ -1,3 +1,7 @@
 requests
 python-nmap
 shodan
+beautifulsoup4
+paramiko
+python-whois
+dnspython
