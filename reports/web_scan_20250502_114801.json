@@ -1,0 +1,10 @@
+{
+    "target": "http://127.0.0.1:5000",
+    "fuzzed_paths": [
+        "http://127.0.0.1:5000/admin",
+        "http://127.0.0.1:5000/dashboard"
+    ],
+    "vulnerabilities": [],
+    "login_success": null,
+    "timestamp": "2025-05-02 11:48:01.822333"
+}
