@@ -24,7 +24,7 @@ CLI-only, offline-capable, modular, and powerful for red teamers & ethical hacke
 
 ### Kali Linux:
 ```bash
-git clone https://github.com/yourname/BlackSight.git
+git clone https://github.com/lanndior23/BlackSight.git
 cd BlackSight
 chmod +x install.sh
 ./install.sh
@@ -54,10 +54,10 @@ shodan: Intelligence gathering with API
 report: Export in clean formats
 
 📄 License
-MIT © 2025 YourName
+MIT © 2025 lanndior
 
 🔗 Links
-GitHub: github.com/yourname/BlackSight
+GitHub: github.com/lanndior23/BlackSight
 
 
 ---
@@ -69,11 +69,8 @@ Create a file named `LICENSE`:
 ```text
 MIT License
 
-Copyright (c) 2025 YourName
+Copyright (c) 2025 lanndior
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-...
-(Include full MIT text — I can paste the whole thing if you want)
 
 ▶️ Run the tool (examples):
 
